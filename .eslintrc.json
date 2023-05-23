@@ -1,4 +1,4 @@
 {
-  "extends": ["plugin:@next/next/recommended"],
+  "extends": ["next"],
   "plugins": ["prettier"]
 }
